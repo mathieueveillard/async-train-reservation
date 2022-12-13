@@ -18,7 +18,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "promise.allsettled": "^1.0.2"
   },
   "prettier": {
